@@ -44,10 +44,6 @@
 
   <link rel="stylesheet" href="{{ (resources.Get "sass/main.scss" | resources.ToCSS (dict "targetPath" "style.css" "outputStyle" "compressed") | resources.Fingerprint).Permalink }}" type="text/css">
 
-  {{ if .Site.Params.customCSS }}
-    {{ partial "css.html" . }}
-  {{ end }}
-
   {{ if .Site.Params.lazyLoading }}
     <style>.lazyload{opacity:.0001;}.logo .lazyload{min-width:10em;}</style>
     <script src="{{ (resources.Get "js/vendor/lazysizes.min.js").Permalink }}" async></script>
