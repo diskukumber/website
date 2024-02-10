@@ -1,0 +1,10 @@
+{{ if not (eq (len (where .Site.RegularPages "Section" "gallery")) 0) }}
+  {{ partial "modals.html" . }}
+  <script src="{{ (resources.Get "js/src/modal.js" | minify | fingerprint).Permalink }}" type="text/javascript"></script>
+{{ end }}
+
+{{ if .IsHome }}
+  <script src="{{ (resources.Get "js/src/index.js" | minify | fingerprint).Permalink }}" type="text/javascript"></script>
+{{ else }}
+  <script src="{{ (resources.Get "js/src/main.js" | minify | fingerprint).Permalink }}" type="text/javascript"></script>
+{{ end }}

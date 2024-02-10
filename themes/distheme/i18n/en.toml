@@ -1,0 +1,37 @@
+[view]
+other = "View"
+[code]
+other = "Code"
+[viewAll]
+other = "View All"
+[minuteRead]
+one = "One minute read"
+other = "{{.Count}} minutes read"
+[latestPosts]
+other = "Latest Posts"
+[404Message]
+other = "WHAT DID YOU DO?!"
+[copyright]
+other = "Copyright"
+[twitter]
+other = "Twitter"
+[mastodon]
+other = "Mastodon"
+[youtube]
+other = "YouTube"
+[instagram]
+other = "Instagram"
+[tiktok]
+other = "TikTok"
+[github]
+other = "GitHub"
+[reddit]
+other = "Reddit"
+[twitch]
+other = "Twitch"
+[linkedin]
+other = "LinkedIn"
+[facebook]
+other = "Facebook"
+[pinterest]
+other = "Pinterest"

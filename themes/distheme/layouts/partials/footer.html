@@ -1,0 +1,58 @@
+<footer class="row middle-xs center-xs">
+
+  {{ if .Site.Params.twitter }}
+    <div class="col-xs-3 col-md-2"><a target="_blank" rel="noopener" href="https://twitter.com/{{ .Site.Params.twitter }}">{{ i18n "twitter" }}</a></div>
+  {{ end }}
+
+  {{ if .Site.Params.mastodon }}
+    <div class="col-xs-3 col-md-2"><a target="_blank" rel="noopener" href="https://mastodon.social/{{ .Site.Params.mastodon }}">{{ i18n "mastodon" }}</a></div>
+  {{ end }}
+
+  {{ if .Site.Params.youtube }}
+    <div class="col-xs-3 col-md-2"><a target="_blank" rel="noopener" href="https://youtube.com/{{ .Site.Params.youtube }}">{{ i18n "youtube" }}</a></div>
+  {{ end }}
+
+  {{ if .Site.Params.instagram }}
+    <div class="col-xs-3 col-md-2"><a target="_blank" rel="noopener" href="https://instagram.com/{{ .Site.Params.instagram }}">{{ i18n "instagram" }}</a></div>
+  {{ end }}
+
+  {{ if .Site.Params.tiktok }}
+    <div class="col-xs-3 col-md-2"><a target="_blank" rel="noopener" href="https://tiktok.com/{{ .Site.Params.tiktok }}">{{ i18n "tiktok" }}</a></div>
+  {{ end }}
+
+  {{ if .Site.Params.github }}
+    <div class="col-xs-3 col-md-2"><a target="_blank" rel="noopener" href="https://github.com/{{ .Site.Params.github }}">{{ i18n "github" }}</a></div>
+  {{ end }}
+
+  {{ if .Site.Params.reddit }}
+  <div class="col-xs-3 col-md-2"><a target="_blank" rel="noopener" href="https://reddit.com/{{ .Site.Params.reddit }}">{{ i18n "reddit" }}</a></div>
+  {{ end }}
+
+  {{ if .Site.Params.twitch }}
+  <div class="col-xs-3 col-md-2"><a target="_blank" rel="noopener" href="https://twitch.tv/{{ .Site.Params.twitch }}">{{ i18n "twitch" }}</a></div>
+  {{ end }}
+
+  {{ if .Site.Params.linkedin }}
+    <div class="col-xs-3 col-md-2"><a target="_blank" rel="noopener" href="https://linkedin.com/in/{{ .Site.Params.linkedin }}">{{ i18n "linkedin" }}</a></div>
+  {{ end }}
+
+  {{ if .Site.Params.facebook }}
+    <div class="col-xs-3 col-md-2"><a target="_blank" rel="noopener" href="https://facebook.com/{{ .Site.Params.facebook }}">{{ i18n "facebook" }}</a></div>
+  {{ end }}
+
+  {{ if .Site.Params.pinterest }}
+    <div class="col-xs-3 col-md-2"><a target="_blank" rel="noopener" href="https://pinterest.com/{{ .Site.Params.pinterest }}">{{ i18n "pinterest" }}</a></div>
+  {{ end }}
+
+  {{ if or (.Site.Params.copyright) (.Site.Params.credit) }}
+    <div class="col-xs-12">
+      {{ if .Site.Params.copyright }}
+      {{ i18n "copyright" }} &copy; {{ now.Format "2006" }} {{ .Site.Title }}.
+      {{ end }}
+      {{ if .Site.Params.credit }}
+        <a href="https://diskukumber.com" target="_blank" rel="nofollow">
+      {{ end }}
+    </div>
+  {{ end }}
+
+</footer>

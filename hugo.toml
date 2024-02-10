@@ -1,0 +1,46 @@
+title = "diskukumber"
+baseURL = "https://diskukumber.com"
+languageCode = "en-US"
+config = "config.toml"
+theme = "distheme"
+canonifyURLS = true
+
+[Params]
+  tagline = "~not all knowledge comes from books, 'lead your journey'"
+  logoBig = "/images/diskukumber-logoBig.png"
+  logoSmall = "/images/diskukumber-logoSmall.png"
+  favicon = "diskukumber-logoBig.png"
+  opengraphImage = "/images/diskukumber-logoBig.png"
+  customCSS = false
+
+  # Social media links in footer
+  twitter = "@diskukumber"
+  mastodon = "@diskukumber"
+  youtube = "@diskukumber"
+  instagram = "diskukumber"
+  tiktok = "@diskukumber"
+  github = "diskukumber"
+  reddit = "u/diskukumber"
+  twitch = "diskukumber"
+  linkedin = "diskukumber"
+  facebook = "diskukumber"
+  pinterest = "diskukumber"
+
+  # Copyright and theme author credit in footer
+  copyright = true
+
+  # Lazy loading with lazysizes
+  lazyloading = true
+
+[[menu.main]]
+  name = "About"
+  url  = "/#about"
+  weight = 1
+[[menu.main]]
+  name = "Projects"
+  url  = "/#projects"
+  weight = 2
+[[menu.main]]
+  name = "Blog"
+  url  = "/#blog"
+  weight = 3
