@@ -9,7 +9,7 @@ canonifyURLS = true
   tagline = "~not all knowledge comes from books, 'lead your journey'"
   logoBig = "/images/diskukumber-logoBig.png"
   logoSmall = "/images/diskukumber-logoSmall.png"
-  favicon = "diskukumber-logoBig.png"
+  favicon = "favicon.png"
   opengraphImage = "/images/diskukumber-logoBig.png"
   customCSS = false
 
