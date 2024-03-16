@@ -12,7 +12,7 @@ You are probably wondering who or what the hell is diskukumber, well i will tell
 this name came from.
 
 ![gif](/images/about/anicandle.gif)![gif](/images/about/book.gif)  
-It all started in the year 3000 when...  
+It all started 3000 years ago when...  
 hehe just kidding :)  
 diskukumber comes from two words disguise and cucumber so the full name is disguise cucumber  
 but for simplicity i short it to diskukumber and now is double meaning diskukumber as of this cucumber and the original disguise cucumber.  
