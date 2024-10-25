@@ -5,19 +5,22 @@ draft = false
 +++
 ![image](/images/about/pepesmile.png)  
 Glad to see you here   :)  
-I'm diskukumber, music cinema and tech lover  
+I'm **diskukumber**, music cinema and tech lover  
 I'm also a retro nerd and privacy geek.
 ![gif](/images/about/runningcat.gif)  
-You are probably wondering who or what the hell is diskukumber, well i will tell you the story of where 
+You are probably wondering who or what the hell is **diskukumber**, well i will tell you the story of where 
 this name came from.
 
 ![gif](/images/about/anicandle.gif)![gif](/images/about/book.gif)  
 It all started 3000 years ago when...  
-hehe just kidding :)  
-diskukumber comes from two words disguise and cucumber so the full name is disguise cucumber  
-but for simplicity i short it to diskukumber and now is double meaning diskukumber as of this cucumber and the original disguise cucumber.  
+heh heh just kidding :)  
+**diskukumber** comes from two words disguise and cucumber so the full name is disguise cucumber  
+but for simplicity i short it to **diskukumber** and now is double meaning **diskukumber** as of this cucumber and the original disguise cucumber.  
 cucumber being my childhood nickname and disguise for my obsession with privacy and conceal my identity
 online and i replace the C with K in cucumber referencing to my real name.  
+Also known as **Larry Needlemeyer**![image](/images/about/larryneedlemeyer.png)
+
+
 ![gif](/images/about/pokec.gif)
 
 
@@ -81,7 +84,7 @@ online and i replace the C with K in cucumber referencing to my real name.
 
 ![image](/images/about/pepesmug.png)  
 I can't share everything here, for privacy reasons so if you're interested in knowing more about me,
-you can get in touch through contact@diskukumber.com or message me directly on my social media
+you can get in touch through **contact@diskukumber.com** or message me directly on my social media
 accounts links available down below.  
 
 ![gif](/images/about/movegreenstand.gif)
